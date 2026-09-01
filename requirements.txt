@@ -1,0 +1,4 @@
+matplotlib>=3.8
+tkcalendar>=1.6.1
+requests>=2.31.0
+reportlab>=4.2.2

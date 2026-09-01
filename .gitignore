@@ -1,0 +1,42 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build / distribution
+build/
+dist/
+*.egg-info/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local database/backups
+finance.db
+backups/ 
+# Виртуальное окружение
+.venv/
+venv/
+
+# Кэш Python и pytest
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# База данных и резервные копии
+finance.db
+backups/
+
+# Временные файлы систем и редакторов
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
